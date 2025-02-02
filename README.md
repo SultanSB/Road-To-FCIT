@@ -8,9 +8,7 @@
 ### **For Players (Windows)**  
 1. **Download the game**:  
    - **OneDrive Link**: [Download Game Files Here](https://kauksa-my.sharepoint.com/:f:/g/personal/2237611_stu_kau_edu_sa/EpbPbwydrYNKtj6y80vFwUcBpa7Jg0UhhGN_OIgLsMV4IQ?e=jLCOfI)  
-   - Extract the downloaded ZIP folder to your desired location.  
-2. **Run the game**:  
-   - Navigate to the extracted folder, then go to `Build/Windows`.  
+   - downloaded folder to your desired location.  
+2. **Run the game**:    
    - Double-click `RoedToFCIT.exe` to launch the game.  
-3. **Adjust settings**:  
-   - Use the **Options** menu to customize resolution, graphics quality, and controls.
+
